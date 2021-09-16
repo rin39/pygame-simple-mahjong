@@ -2,6 +2,12 @@
 
 Riichi Mahjong with ツモ切り bots.
 
+Requires `pygame`:
+
+```
+pip install pygame
+```
+
 ### What is not implemented
 
 A lot.
